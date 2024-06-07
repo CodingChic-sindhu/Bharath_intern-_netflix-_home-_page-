@@ -2,6 +2,10 @@ Welcome to my Netflix Homepage Project! This project demonstrates my proficiency
 
 # Demo
   You can view a live demo of the project
+
+  https://github.com/Sindhu898/Bharath_intern-_netflix-_home-_page-/assets/163533750/18d41391-6b3e-49d8-99ab-ca950cc238b3
+
+  
   
 # Project Overview
   The Netflix Homepage Project is a showcase of web development skills, featuring a clone of the Netflix homepage crafted with HTML and CSS.
